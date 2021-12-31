@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4bf421a9d444df94bb2396522398835d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockndut
+  fontNames:
+  - Rockndut
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 177a9f77158d81a469f21e153a3bc434, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
